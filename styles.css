@@ -1,0 +1,98 @@
+
+body {
+    font-family:  Helvetica, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 1;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 1;
+    margin:1;
+    display: flex;
+    justify-content: center;
+    background-color: #4a90e2;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #f1ebeb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+#album{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#album:hover{
+    color: #4a90e2;
+}
+#yo{
+    color: #4a90e2;
+}
+#gim{
+    height: 300px;
+    width: 400px;
+}
+#tu {
+    color: #4a90e2;
+}
+#ink{
+    height: 300px;
+    width: 400px;
+}
+#follet{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#follet:hover{
+    color: #4a90e2;
+}
+#tailwind{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#tailwind:hover{
+    color: #4a90e2;
+}
+#susten{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#susten:hover{
+    color: #4a90e2;
+}
